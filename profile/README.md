@@ -1,12 +1,16 @@
-## Hi there 👋
+# Punk Knights NFT Collection
 
-<!--
+Welcome to the Punk Knights NFT collection, where 1,125 enigmatic Knights await, each harboring a hidden mystery within. These NFTs are more than just digital assets; they are gateways to a realm of secrets and surprises.
 
-**Here are some ideas to get you started:**
+## Collection Overview
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- **Total Knights**: 1,125
+- **Mystery Factor**: Each Knight holds its own unique mystery, waiting to be uncovered.
+
+## Unveil the Secrets
+
+The secrets of the Punk Knights are not revealed at a glance. Delve into the depths of the collection to unearth the concealed narratives, hidden within the digital artwork itself. 
+
+Stay tuned as collectors embark on a journey of discovery, unlocking the mysteries one Knight at a time.
+
+Join the adventure and become part of the Punk Knights community today!
